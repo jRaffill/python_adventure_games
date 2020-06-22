@@ -1,1 +1,1 @@
-# python_adventure_games
+# A set of adventure games in python
