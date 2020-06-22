@@ -1,2 +1,2 @@
-run = "python adventuregame1.py"
+run = "python3 adventuregame1.py"
 language = "python"
